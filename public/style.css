@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: blueviolet;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 18px;
+  }
+  
